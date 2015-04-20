@@ -1,0 +1,11 @@
+{
+  "name": "INE-scrapper",
+  "version": "0.0.1",
+   "devDependencies": {
+    "coffee-script": "~1.6.3"
+  },
+  "dependencies": {
+    "request": "*",
+    "cheerio": "*"
+  }
+}
